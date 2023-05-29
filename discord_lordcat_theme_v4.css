@@ -1,6 +1,11 @@
 /* This is the actual Oneshot style textboxe CSS styling. */
 
 body
+{
+  font-family: "Terminus (TTF)";
+  /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+  /* font-family: "Consolas"; */
+}
 
 .avatar-2e8lTP, clickable-31pE3P{
   /* margin-left: 95%; */
